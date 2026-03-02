@@ -71,7 +71,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{gybernaty2026cybersocium,
   title     = {CyberSocium: Theoretical Foundations of Cybersocial Economics
-               and the Architecture of a Decentralised Socio-Economic Formation},
+               and the Architecture of a Decentralised Socio-Economic Form},
   author    = {{Gybernaty Research Collective}},
   year      = {2026},
   version   = {2.0},
