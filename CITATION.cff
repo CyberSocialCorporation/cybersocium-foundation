@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "CyberSocium: Theoretical Foundations of Cybersocial Economics and the Architecture of a Decentralised Socio-Economic Formation"
+type: article
+authors:
+  - name: "Gybernaty Research Collective"
+    website: "https://gyber.org"
+version: "2.0"
+date-released: "2026-03-02"
+url: "https://github.com/GyberExperiments/cybersocium-foundation"
+repository-code: "https://github.com/GyberExperiments/cybersocium-foundation"
+license:
+  - "CC-BY-NC-4.0"
+  - "GPL-3.0"
+keywords:
+  - cybersocial economics
+  - decentralised autonomous organisation
+  - DAO
+  - mechanism design
+  - institutional economics
+  - cryptoeconomics
+  - cooperative governance
+  - blockchain
+  - tokenomics
+  - AI governance
+  - DUNA
+  - complex adaptive systems
+abstract: >-
+  This paper establishes the theoretical foundation of Cybersocial Economics,
+  a new interdisciplinary field synthesising institutional economics, mechanism
+  design, cybernetics, and cryptoeconomics. It introduces the CyberSocial
+  Corporation (CSC) as a formally defined six-tuple providing a rigorous
+  framework for self-governing digital economic communities. The paper presents
+  eight axioms, four formal mechanisms (PMIP, SES, IPI, FRP), a four-class DAO
+  taxonomy, and the technical architecture of GyberExperiment as the first
+  empirical realisation.
